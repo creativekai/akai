@@ -1,0 +1,2 @@
+# akai
+focus on AI
